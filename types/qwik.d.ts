@@ -1,3 +1,5 @@
+import './raw-param'
+
 declare module 'virtual:icons/*' {
   import type { FunctionComponent, QwikIntrinsicElements } from '@builder.io/qwik'
 

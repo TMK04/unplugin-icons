@@ -1,3 +1,5 @@
+import './raw-param'
+
 declare module 'virtual:icons/*' {
   import type { Component } from 'svelte'
   import type { SvelteHTMLElements } from 'svelte/elements'

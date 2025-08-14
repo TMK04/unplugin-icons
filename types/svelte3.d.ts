@@ -1,3 +1,5 @@
+import './raw-param'
+
 declare module 'virtual:icons/*' {
   export { SvelteComponentDev as default } from 'svelte/internal'
 }

@@ -1,3 +1,5 @@
+import './raw-param'
+
 declare module 'virtual:icons/*' {
   const component: HTMLElement
   export default component

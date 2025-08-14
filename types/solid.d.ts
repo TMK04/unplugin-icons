@@ -1,3 +1,5 @@
+import './raw-param'
+
 declare module 'virtual:icons/*' {
   import type { ComponentProps, JSX } from 'solid-js'
 
